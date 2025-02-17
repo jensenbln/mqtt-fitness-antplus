@@ -1,0 +1,17 @@
+{
+  "name": "fitness-data-app",
+  "version": "1.0.0",
+  "description": "publish fitness data from Wahoo & Garmin to Home Assistant with MQTT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jensen",
+  "license": "ISC",
+  "dependencies": {
+    "ant-plus": "^0.1.24",
+    "mqtt": "^4.3.7",
+    "winston": "^3.8.2",
+    "yargs": "^17.7.2"
+  }
+}

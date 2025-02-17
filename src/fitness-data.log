@@ -1,0 +1,8 @@
+{"level":"info","message":"HTTP server listening on port 8080","timestamp":"2025-02-16T15:48:49.381Z"}
+{"level":"info","message":"ANT+ stick initialized","timestamp":"2025-02-16T15:48:49.407Z"}
+{"level":"info","message":"Connected to MQTT broker","timestamp":"2025-02-16T15:48:49.516Z"}
+{"level":"info","message":"Closing ANT+ connections","timestamp":"2025-02-16T15:49:29.093Z"}
+{"level":"info","message":"HTTP server listening on port 8080","timestamp":"2025-02-16T15:49:54.131Z"}
+{"level":"info","message":"ANT+ stick initialized","timestamp":"2025-02-16T15:49:54.157Z"}
+{"level":"info","message":"Connected to MQTT broker","timestamp":"2025-02-16T15:49:54.185Z"}
+{"level":"info","message":"Closing ANT+ connections","timestamp":"2025-02-16T15:49:57.588Z"}
